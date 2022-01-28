@@ -1,3 +1,7 @@
+1. Firing up a react/tailwind project today to make a kick butt image gallery with search, scrolling, and image optimization. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
