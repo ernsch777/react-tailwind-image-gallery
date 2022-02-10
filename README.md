@@ -1,8 +1,3 @@
-1. Fixed a script capitalizing error by reinstalling Node, redid the project alltogether, and have the basiscs working. Need to upload file structure to git.
-2. 
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
