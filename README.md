@@ -1,5 +1,4 @@
-1. Restarting the project.
-2. Added tailwind but postcss is not showing up.
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
