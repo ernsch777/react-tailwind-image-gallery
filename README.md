@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+1. Finally got Tailwind to spin up without error using create-react-app. Updating VS Code was the final hurdle. Now going to work on the image gallery and start with the cards, tags, and main carasoul. 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
